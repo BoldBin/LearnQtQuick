@@ -8,5 +8,5 @@
 
 ## 4、QtQuick framework
 
-## 5、QtQuick with OpenGL
+## 5、QtQuick Scene graph
 
